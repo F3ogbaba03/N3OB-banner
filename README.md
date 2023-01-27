@@ -8,6 +8,6 @@ git clone  https://github.com/F3ogbaba03/N3OB-banner
 
 cd N3OB-banner
 
-bash N3ob-banner.sh
+python2 n3ob-design.py
 
 #Enjoy💻
