@@ -16,9 +16,9 @@ pip install termcolor
 pkg install ncurses-utils -y 
 pkg install ruby -y 
 gem install lolcat 
-figlet -f small পাগল হইসোস কেনো | lolcat
+figlet পাগল হইসোস কেনো | lolcat
 git clone https://github.com/F3ogbaba03/N3ob-banner
 sed 's+DHB+'$user'+g' N3ob-banner/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
 sed 's+DHB+'$user'+g' N3ob-banner/wlc.py > /data/data/com.termux/files/usr/etc/wlc.py
 rm -rf N3ob-banner
-figlet -f big DHB HACKER | lolcat
+figlet DHB HACKER | lolcat
