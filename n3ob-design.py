@@ -40,16 +40,15 @@ bashrc1 = '''
 clear
 echo
 echo "
-   < ━━━━━━━━━ [★] N3OB HACKER[★] ━━━━━━━━━━━━ >  " |lolcat
+   < ━━━━━━━━━ [★] \033[1;31m_TEAM [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
     echo "  We Are AnonyMouse" |lolcat
 '''
-
 bashrc2 = '''
 echo "
              We Do Not HaCk to impress
                         We HaCk To Express
-   < ━━━━━━━━━━━ [★]D.H.B HACKERS [★] ━━━━━━━━━━━━ > " |lolcat
+   < ━━━━━━━━━━━ [★] \033[1;32m US [★] ━━━━━━━━━━━━ > " |lolcat
 
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
@@ -58,7 +57,7 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
         }
 fi
 
-#PS1="\\033[1;31mD.H.B HACKER~#"
+#PS1="\\033[1;31mDCCS TEAM~#"
 
 PS1="\[\e[1;34m┌──\\a─T─I─M─E─\\a──┐\\033[1;34m\\a┌──\\a─D─A─T─E─\\a───>\\033[1;34m
 \\a┌─[\\033[1;93m \@\\033[1;34m ]──[\\033[1;93m \d\\033[1;34m ]\\033[1;34m
